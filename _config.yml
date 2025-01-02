@@ -1,1 +1,4 @@
 theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
