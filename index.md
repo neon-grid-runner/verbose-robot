@@ -1,4 +1,4 @@
-from the depths of distributed systems to the heights of scalable architecture, we delve into the dark arts of data and machines.
+from the depths of distributed systems to the heights of scalable architecture, we dig into the dark arts of data and machines.
 
 written by a tech priest who's seen the machine spirit break and mend.
 
